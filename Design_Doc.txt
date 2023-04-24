@@ -1,0 +1,39 @@
+                                         ***************
+										 DESIGN DOCUMENT
+										 ***************
+
+#############################################################################################################
+This document is intended to help the viewer understand the theroretical flow before looking at the code.
+#############################################################################################################
+
+
+***************
+Thought Process
+***************
+
+1. Setup the clinic and doctors before letting patients come in. This takes place in the main thread. 
+2. The timer is the first thing to start. As per logical operation. Note: Time is approximated keeping worst case in mind.  
+3. Once the threads have been created, doctor sleeps (sleep has been mimicked) until there is a patient available in the waiting room. if there is no one, just decrement the counter and wait for the day to complete.
+
+NOTE: The design is intended to have doctor poll for patients from the waiting room. 
+
+4. Patient Threads have been created at this point. Insert patient into the waiting room ( Binary Heap ) and 
+exit the thread once all the attributes of the patient have been populated. 
+
+NOTE: One exception to insertion would be in case of a VIP patient. If there is a VIP coming in and he figures there is a patient with the doctor with lower priority; he pulls him out and sets a preemption action in play.
+    In addition, if the patient coming in is of higher priority than the last person in the waiting room. There is a swap. The patient with lower priority is put into cafe while higher is in the last position of waiting room 
+
+5. Doctors continue to pick patients from the prioritized queue. Once addressed, puts into file system in order of execution/ completion (in case of multiple doc scenario).
+
+6. Once patient count for the day has been reaced or the timer has been down to 0. Doctors will exit. 
+
+7. Close file is called for the day. Patient records have been generated in text file within the same file system. 
+
+8. Application exits. 
+
+#############
+Assumptions
+#############
+
+1. Number of patients, Doctors, waiting room capacity, time to execute.
+

@@ -1,0 +1,100 @@
+Patient Id:1, Patient Ailment: 3, Patient Priority: 3, Doc Id: 9, Doc Review 2, current_time Sat Mar 18 11:06:09 2023
+
+Patient Id:3, Patient Ailment: 1, Patient Priority: 2, Doc Id: 8, Doc Review 5, current_time Sat Mar 18 11:06:13 2023
+
+Patient Id:2, Patient Ailment: 3, Patient Priority: 1, Doc Id: 2, Doc Review 9, current_time Sat Mar 18 11:06:17 2023
+
+Patient Id:5, Patient Ailment: 1, Patient Priority: 1, Doc Id: 6, Doc Review 1, current_time Sat Mar 18 11:06:30 2023
+
+Patient Id:6, Patient Ailment: 1, Patient Priority: 3, Doc Id: 5, Doc Review 10, current_time Sat Mar 18 11:06:39 2023
+
+Patient Id:7, Patient Ailment: 4, Patient Priority: 4, Doc Id: 1, Doc Review 3, current_time Sat Mar 18 11:06:55 2023
+
+Patient Id:4, Patient Ailment: 10, Patient Priority: 2, Doc Id: 3, Doc Review 6, current_time Sat Mar 18 11:06:59 2023
+
+Patient Id:9, Patient Ailment: 4, Patient Priority: 3, Doc Id: 4, Doc Review 8, current_time Sat Mar 18 11:07:12 2023
+
+Patient Id:11, Patient Ailment: 2, Patient Priority: 2, Doc Id: 9, Doc Review 4, current_time Sat Mar 18 11:07:17 2023
+
+Patient Id:10, Patient Ailment: 4, Patient Priority: 1, Doc Id: 7, Doc Review 1, current_time Sat Mar 18 11:07:22 2023
+
+Patient Id:8, Patient Ailment: 8, Patient Priority: 4, Doc Id: 10, Doc Review 1, current_time Sat Mar 18 11:07:22 2023
+
+Patient Id:13, Patient Ailment: 2, Patient Priority: 1, Doc Id: 2, Doc Review 3, current_time Sat Mar 18 11:07:35 2023
+
+Patient Id:14, Patient Ailment: 2, Patient Priority: 3, Doc Id: 6, Doc Review 3, current_time Sat Mar 18 11:07:44 2023
+
+Patient Id:15, Patient Ailment: 5, Patient Priority: 4, Doc Id: 5, Doc Review 5, current_time Sat Mar 18 11:08:00 2023
+
+Patient Id:12, Patient Ailment: 11, Patient Priority: 2, Doc Id: 8, Doc Review 8, current_time Sat Mar 18 11:08:04 2023
+
+Patient Id:17, Patient Ailment: 5, Patient Priority: 3, Doc Id: 3, Doc Review 10, current_time Sat Mar 18 11:08:17 2023
+
+Patient Id:18, Patient Ailment: 4, Patient Priority: 4, Doc Id: 4, Doc Review 7, current_time Sat Mar 18 11:08:22 2023
+
+Patient Id:19, Patient Ailment: 2, Patient Priority: 1, Doc Id: 9, Doc Review 3, current_time Sat Mar 18 11:08:24 2023
+
+Patient Id:16, Patient Ailment: 9, Patient Priority: 4, Doc Id: 1, Doc Review 10, current_time Sat Mar 18 11:08:26 2023
+
+Patient Id:21, Patient Ailment: 3, Patient Priority: 3, Doc Id: 7, Doc Review 9, current_time Sat Mar 18 11:08:41 2023
+
+Patient Id:23, Patient Ailment: 2, Patient Priority: 2, Doc Id: 6, Doc Review 5, current_time Sat Mar 18 11:08:49 2023
+
+Patient Id:22, Patient Ailment: 4, Patient Priority: 3, Doc Id: 2, Doc Review 8, current_time Sat Mar 18 11:08:50 2023
+
+Patient Id:20, Patient Ailment: 10, Patient Priority: 3, Doc Id: 10, Doc Review 4, current_time Sat Mar 18 11:09:04 2023
+
+Patient Id:25, Patient Ailment: 4, Patient Priority: 4, Doc Id: 8, Doc Review 3, current_time Sat Mar 18 11:09:16 2023
+
+Patient Id:24, Patient Ailment: 8, Patient Priority: 3, Doc Id: 5, Doc Review 3, current_time Sat Mar 18 11:09:22 2023
+
+Patient Id:26, Patient Ailment: 5, Patient Priority: 2, Doc Id: 3, Doc Review 2, current_time Sat Mar 18 11:09:28 2023
+
+Patient Id:27, Patient Ailment: 5, Patient Priority: 2, Doc Id: 4, Doc Review 2, current_time Sat Mar 18 11:09:34 2023
+
+Patient Id:29, Patient Ailment: 4, Patient Priority: 1, Doc Id: 1, Doc Review 1, current_time Sat Mar 18 11:09:43 2023
+
+Patient Id:30, Patient Ailment: 3, Patient Priority: 2, Doc Id: 7, Doc Review 8, current_time Sat Mar 18 11:09:48 2023
+
+Patient Id:31, Patient Ailment: 1, Patient Priority: 3, Doc Id: 6, Doc Review 4, current_time Sat Mar 18 11:09:50 2023
+
+Patient Id:28, Patient Ailment: 8, Patient Priority: 2, Doc Id: 9, Doc Review 1, current_time Sat Mar 18 11:09:52 2023
+
+Patient Id:33, Patient Ailment: 2, Patient Priority: 1, Doc Id: 10, Doc Review 3, current_time Sat Mar 18 11:10:08 2023
+
+Patient Id:35, Patient Ailment: 1, Patient Priority: 4, Doc Id: 5, Doc Review 9, current_time Sat Mar 18 11:10:16 2023
+
+Patient Id:34, Patient Ailment: 3, Patient Priority: 1, Doc Id: 8, Doc Review 2, current_time Sat Mar 18 11:10:17 2023
+
+Patient Id:32, Patient Ailment: 9, Patient Priority: 1, Doc Id: 2, Doc Review 5, current_time Sat Mar 18 11:10:30 2023
+
+Patient Id:37, Patient Ailment: 3, Patient Priority: 2, Doc Id: 4, Doc Review 7, current_time Sat Mar 18 11:10:43 2023
+
+Patient Id:38, Patient Ailment: 4, Patient Priority: 4, Doc Id: 1, Doc Review 6, current_time Sat Mar 18 11:10:55 2023
+
+Patient Id:39, Patient Ailment: 4, Patient Priority: 4, Doc Id: 7, Doc Review 6, current_time Sat Mar 18 11:11:01 2023
+
+Patient Id:41, Patient Ailment: 3, Patient Priority: 3, Doc Id: 9, Doc Review 2, current_time Sat Mar 18 11:11:09 2023
+
+Patient Id:36, Patient Ailment: 12, Patient Priority: 1, Doc Id: 3, Doc Review 2, current_time Sat Mar 18 11:11:09 2023
+
+Patient Id:42, Patient Ailment: 2, Patient Priority: 4, Doc Id: 10, Doc Review 8, current_time Sat Mar 18 11:11:14 2023
+
+Patient Id:45, Patient Ailment: 1, Patient Priority: 3, Doc Id: 2, Doc Review 10, current_time Sat Mar 18 11:11:33 2023
+
+Patient Id:43, Patient Ailment: 5, Patient Priority: 1, Doc Id: 5, Doc Review 10, current_time Sat Mar 18 11:11:36 2023
+
+Patient Id:40, Patient Ailment: 12, Patient Priority: 4, Doc Id: 6, Doc Review 7, current_time Sat Mar 18 11:11:38 2023
+
+Patient Id:46, Patient Ailment: 2, Patient Priority: 3, Doc Id: 4, Doc Review 10, current_time Sat Mar 18 11:11:42 2023
+
+Patient Id:44, Patient Ailment: 8, Patient Priority: 3, Doc Id: 8, Doc Review 2, current_time Sat Mar 18 11:11:55 2023
+
+Patient Id:47, Patient Ailment: 5, Patient Priority: 2, Doc Id: 1, Doc Review 2, current_time Sat Mar 18 11:12:01 2023
+
+Patient Id:49, Patient Ailment: 2, Patient Priority: 4, Doc Id: 3, Doc Review 5, current_time Sat Mar 18 11:12:08 2023
+
+Patient Id:50, Patient Ailment: 3, Patient Priority: 2, Doc Id: 9, Doc Review 7, current_time Sat Mar 18 11:12:21 2023
+
+Patient Id:48, Patient Ailment: 11, Patient Priority: 3, Doc Id: 7, Doc Review 3, current_time Sat Mar 18 11:12:35 2023
+
